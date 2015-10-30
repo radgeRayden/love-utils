@@ -4,10 +4,10 @@ This is licensed under the MIT license (http://opensource.org/licenses/MIT).
 Time of creation: September 9th, 2015 20:59 ACT
 Description:
 Simple overlay for displaying debug information (only fps as of this version).
-Version: 1.0.1 (October 30th, 2015)
+Version: 1.0.1a (October 30th, 2015)
 --]]
 
-overlay = {}
+local overlay = {}
 
 local fps = 60
 local timer = 0
